@@ -1,0 +1,21 @@
+body {
+    background-color: #f3f3f3;
+    font-family: arial;
+}
+
+.article-container {
+    width: 900px;
+    background-color: #fff;
+    padding: 30px;
+}
+
+.article-box {
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+input {
+    width: 100px;
+    height: 44px;
+    font-size: 22px;
+}
